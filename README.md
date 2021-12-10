@@ -1,1 +1,37 @@
-<h1>Kebrvr's website and info</h1>
+
+<body background="1.jpg" link="#000" alink="#017bf5" vlink="#000">
+	<br />
+	<h3 align="center">
+		<font face="Lato" size="6">LOGO</font>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="https://discord.gg/rYwdwwuj7z">Discord</a>
+			<a href="https://www.youtube.com/channel/UCqpXbc2cq32OPaoWArB0sKQ">Youtube</a>
+		</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			welcome to a site Kebrvr himself made.
+		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			I am just a normal person living a life who is also sonewhat to apparently a furry.
+      im not popular and Never wants to be.
+		</font>
+	</h3>
+	<br />
+	<h3 align="center">
+	<a href="#">
+		<font face="Lato" color="#000">GET STARTED</font>
+	</a>&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="#">
+		<font face="Lato" color="#fff">SUBSCRIBE US</font>
+	</a>
+	</h3>
+</body>
+</html>
