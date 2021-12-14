@@ -1,7 +1,7 @@
 
 <body background="![image0](https://user-images.githubusercontent.com/95942529/145651926-64e8d969-2e1c-41a4-b465-fdd4a477e10a.jpg)
 " link="#000" alink="#017bf5" vlink="#000">
-	<br />
+	<br/>
 	<h3 align="center">
 		<font face="Lato" size="6">LOGO</font>
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,10 +28,14 @@
 	<br />
 	<h3 align="center">
 	<a href="#">
-		<font face="Lato" color="#000">GET STARTED</font>
+		<a href="https://www.twitch.tv/kebrvr_">Twitch</a>
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#">
-		<font face="Lato" color="#fff">SUBSCRIBE US</font>
+		<a href="Twitter">https://twitter.com/BallNexus</a>
+		<h3 align="center">
+		<font face="Lato" color="#000" size="5">
+			Im always willing to make new friends.
+		</font>
 	</a>
 	</h3>
 </body>
