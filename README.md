@@ -9,14 +9,14 @@
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<font face="cinzel" size="4">
-			<a href="https://discord.gg/rYwdwwuj7z">Discord</a>
-			<a href="https://www.youtube.com/channel/UCqpXbc2cq32OPaoWArB0sKQ">Youtube</a>
+			<a href="(replacing soon)">Discord</a>
+			<a href="https://www.youtube.com/@Wurkifluff">Youtube</a>
 		</font>
 	</h3>
 	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 	<h1 align="center">
 		<font face="Lato" color="#017bf5" size="7">
-			welcome to a site Kebrvr himself made.
+			welcome to a site Cassie himself made.
 		</font>
 	</h1>
 	<h3 align="center">
@@ -28,10 +28,10 @@
 	<br />
 	<h3 align="center">
 	<a href="#">
-		<a href="https://www.twitch.tv/kebrvr_">Twitch</a>
+		<a href="https://www.twitch.tv/redfurredpanda">Twitch</a>
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#">
-		<a href="Twitter">https://twitter.com/BallNexus</a>
+		<a href="X (formally Twitter)">https://twitter.com/BallNexus</a>
 		<h3 align="center">
 		<font face="Lato" color="#000" size="5">
 			Im always willing to make new friends.
