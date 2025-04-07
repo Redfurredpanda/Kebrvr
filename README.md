@@ -31,7 +31,7 @@
 		<a href="https://www.twitch.tv/redfurredpanda">Twitch</a>
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="#">
-		<a href="https://x.com/redfurredpanda">="X (formally Twitter)</a>
+		<a href="https://x.com/redfurredpanda">X (formally Twitter)</a>
 		<h3 align="center">
 		<font face="Lato" color="#000" size="5">
 			Im always willing to make new friends.
